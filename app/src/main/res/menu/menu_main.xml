@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="questit.com.webviewtest.MainActivity" >
+
+    <item android:id="@+id/action_text"
+        android:title="@string/action_text"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_voice"
+        android:title="@string/action_voice"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_dhi"
+        android:title="@string/action_dhi"
+        android:orderInCategory="102"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_info"
+        android:title="@string/action_info"
+        android:orderInCategory="103"
+        app:showAsAction="never" />
+</menu>

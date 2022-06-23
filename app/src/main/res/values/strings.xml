@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Algho Webview</string>
+    <string name="action_text">1. Algho text</string>
+    <string name="action_voice">2. Algho voice</string>
+    <string name="action_dhi">3. Algho DHI</string>
+    <string name="action_info">Info</string>
+    <string name="dialog_title">Algho is powered by QuestIT</string>
+    <string name="dialog_message">Visit www.quest-it.com</string>
+</resources>
